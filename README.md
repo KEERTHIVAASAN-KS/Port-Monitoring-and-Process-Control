@@ -1,1 +1,9 @@
-run command:
+RUN COMMAND:
+
+real time alert mode:
+
+python portmonitor.py alert
+
+real time gui mode:
+
+
