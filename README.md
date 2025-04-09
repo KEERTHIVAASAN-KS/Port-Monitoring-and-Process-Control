@@ -1,12 +1,12 @@
 RUN COMMAND:
 
-    real time alert mode:
+real time alert mode:
 
-       python portmonitor.py alert
+    python portmonitor.py alert
 
-    real time gui mode:
+real time gui mode:
        
-       python portmonitor.py gui
+    python portmonitor.py gui
     
 
 
